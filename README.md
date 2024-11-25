@@ -1,4 +1,4 @@
-![차트 설명](./imgs/imgs/napkin-selection.png)
+![차트 설명](./imgs/napkin-selection.png)
 
 # 교통사고 분석 프로젝트 (Traffic Accident Analysis) #
 이 프로젝트는 교통사고 데이터를 분석하여 사고 유형별 사망자 비율을 구하고, 각 사고 유형의 위험성을 평가하는 것을 목표로 합니다. 이를 통해 교통사고의 위험 요소를 식별하고, 사고 예방을 위한 정책 수립 및 안전 캠페인에 필요한 인사이트를 제공합니다.
